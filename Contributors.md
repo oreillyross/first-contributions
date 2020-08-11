@@ -1,5 +1,6 @@
 # Contributors
 - [yuvarajan](https://github.com/dozerex)
+- [Ross O'Reilly](https://github.com/oreillyross)
 - [David Fraser](https://github.com/DavidMatthewFraser)
 - [Satyam Sundaram](https://github.com/satyam-01-byte)
 - [Prateek Garg](https://github.com/avyuktakalki)
